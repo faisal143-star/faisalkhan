@@ -1,6 +1,6 @@
 # faisalkhan
 This is my first Git Repository.
 <br>
-Author-Faisal(pathan)
+Author-Faisal(pathan faisal)
 
 
